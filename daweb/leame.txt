@@ -1,0 +1,2 @@
+***Añadir el punto en el archivo htaccess. ejemplo: .htaccess
+***
