@@ -1,2 +1,2 @@
 ***Añadir el punto en el archivo htaccess. ejemplo: .htaccess
-***
+***Modificar el purto por defecto de mysql (3306)
